@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color-clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkobrinsky/npm-lab-onl01-seng-ft-072720.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "zach",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/zkobrinsky/npm-lab-onl01-seng-ft-072720/issues"
+  },
+  "homepage": "https://github.com/zkobrinsky/npm-lab-onl01-seng-ft-072720#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
